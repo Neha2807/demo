@@ -3,7 +3,7 @@
     'employee': 'Victoria Cantrell',
     'approvedby': 'Clay Jenson',
     'department': 'Sales',
-    'status': `<strong>Incomplete</strong>`,
+    'status': 'Incomplete'
     'hireDate': '2015/08/19',
     'submittedby': 'Baron Kat'
   }, {
@@ -17,21 +17,21 @@
     'employee': 'Colette Foley',
     'approvedby': 'Brandon Clarke',
     'department': 'Risk',
-    'status': `<strong>Incomplete</strong>`,
+    'status': 'Incomplete',
     'hireDate': '2015/07/19',
     'submittedby': 'Katherine Pierce'
   }, {
     'employee': 'Anastasia Shaffer',
     'approvedby': 'Walter White',
     'department': 'Advisory',
-    'status': `<strong>Incomplete</strong>`,
+    'status': 'Incomplete',
     'hireDate': '2015/04/20',
     'submittedby': 'Baron Kat'
   }, {
     'employee': 'Gabriel Castro',
     'approvedby': 'Clay Jenson',
     'department': 'Risk',
-    'status': `<strong>Incomplete</strong>`,
+    'status': 'Incomplete',
     'hireDate': '2015/03/04',
     'submittedby': 'Katherine Pierce'
   }, {
@@ -52,14 +52,14 @@
     'employee': 'Maryam Tucker',
     'approvedby': 'Kate Moss',
     'department': 'Advisory',
-    'status': `<strong>Incomplete</strong>`,
+    'status': 'Incomplete',
     'hireDate': '2014/10/02',
     'submittedby': 'Gareth Bale'
   }, {
     'employee': 'Constance Clayton',
     'approvedby': 'Clay Jenson',
     'department': 'Sales',
-    'status': `<strong>Incomplete</strong>`,
+    'status': 'Incomplete',
     'hireDate': '2015/08/01',
     'submittedby': 'Gareth Bale'
   }
